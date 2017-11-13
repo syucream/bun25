@@ -29,3 +29,8 @@
 * タイトルは "フリップフラッパーズ" を参考に
 
   * 内容的にもちょっとかぶせることができそう
+
+* 認知療法
+
+  * http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/kokoro/index.html
+  * http://www.seiwa-pb.co.jp/search/bo05/bn798.html
